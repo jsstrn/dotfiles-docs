@@ -34,6 +34,11 @@ List of applications to install:
 - Google Chrome
 - Atom
 - Sublime Text
+- iTerm2
+- GitHub Desktop
+- GitHub Pulse
+- GitUp
+- Cyberduck
 - Transmission
 - VLC
 - TunnelBear
@@ -41,6 +46,12 @@ List of applications to install:
 - Seashore
 - Calibre
 - Handbrake
+- AppCleaner
+- Bartender
+- Jumpcut
+- KeyCastr
+- Gittr
+- Postman
 
 You can search for applications with [Cask Search](http://caskroom.io/search) or from the Terminal, type: 
 
@@ -49,3 +60,10 @@ brew cask search <app name>
 ```
 
 You can create a `Brewfile`. See [Holman's dotfiles](https://github.com/holman/dotfiles/blob/master/Brewfile) as an example.
+
+## Others
+
+Other applications not available on Cask or the Mac App Store:
+
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- [Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
