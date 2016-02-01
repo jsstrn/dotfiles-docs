@@ -32,7 +32,7 @@ List of applications to install:
 
 - Firefox
 - Google Chrome
-- Atom
+- Atom (and its [packages](https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.hzletibb1))
 - Sublime Text
 - iTerm2
 - GitHub Desktop
