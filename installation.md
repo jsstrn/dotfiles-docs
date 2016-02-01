@@ -52,14 +52,15 @@ List of applications to install:
 - KeyCastr
 - Gittr
 - Postman
+- Sketch
 
-You can search for applications with [Cask Search](http://caskroom.io/search) or from the Terminal, type: 
+To search for applications with [Cask Search](http://caskroom.io/search) or from the Terminal, type: 
 
 ```
 brew cask search <app name>
 ```
 
-You can create a `Brewfile`. See [Holman's dotfiles](https://github.com/holman/dotfiles/blob/master/Brewfile) as an example.
+To create a `Brewfile` see [Holman's dotfiles](https://github.com/holman/dotfiles/blob/master/Brewfile) for an example.
 
 ## Others
 
