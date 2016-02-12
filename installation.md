@@ -1,20 +1,21 @@
-# Software to be installed on OS X
+# OS X Applications
 
 ## Mac App Store
 
 List of applications to install:
 
 - Dash 3
-- Telegram Desktop or Telegram
+- Telegram
 - Go2Shell
 - Caffeine
 - Slack
+- Textual
 - 1Password
 - Alfred
 - Xcode
 - Keynote
 
-## Homebrew Cask
+## Homebrew 
 
 To install [Homebrew](http://brew.sh/)
 
@@ -22,13 +23,15 @@ To install [Homebrew](http://brew.sh/)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+## Homebrew Cask
+
 To install [Cask](http://caskroom.io/)
 
 ```
 brew tap caskroom/cask
 ```
 
-List of applications to install:
+List of applications to install with Cask:
 
 - Firefox
 - Google Chrome
