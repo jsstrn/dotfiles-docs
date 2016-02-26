@@ -8,7 +8,7 @@ Search for tree-view, click settigngs and check `Hide ignore Names`
 
 Download these packages:
 
-- pigments
+- pigments (change marker type to dot under settings)
 - highlight-selected
 - minimap-highlight-selected
 - javascript-snippets
