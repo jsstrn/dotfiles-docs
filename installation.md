@@ -33,13 +33,11 @@ brew tap caskroom/cask
 
 List of applications to install with Cask:
 
-- Firefox `brew cask install firefox`
-- Google Chrome `brew cask install google-chrome`
-- Atom (and its [packages](https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.hzletibb1))
+- Atom `brew cask install atom`
 - Sublime Text `brew cask install sublime-text`
 - iTerm2 `brew cask install iterm2`
-- GitHub Desktop
-- GitHub Pulse
+- GitHub Desktop `brew cask install github`
+- GitHub Pulse `brew cask install `
 - GitUp
 - Cyberduck
 - Transmission
