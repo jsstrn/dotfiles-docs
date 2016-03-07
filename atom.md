@@ -11,6 +11,7 @@ Download these packages:
 - emmet
 - pigments (change marker type to dot under settings)
 - highlight-selected
+- minimap
 - minimap-highlight-selected
 - javascript-snippets
 - keybinding-cheatsheet
