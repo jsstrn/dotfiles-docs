@@ -33,11 +33,11 @@ brew tap caskroom/cask
 
 List of applications to install with Cask:
 
-- Atom `brew cask install atom`
-- Sublime Text `brew cask install sublime-text`
-- iTerm2 `brew cask install iterm2`
-- GitHub Desktop `brew cask install github`
-- GitHub Pulse `brew cask install `
+- Atom
+- Sublime Text
+- iTerm2
+- GitHub Desktop
+- GitHub Pulse
 - GitUp
 - Cyberduck
 - Transmission
@@ -51,9 +51,11 @@ List of applications to install with Cask:
 - Bartender
 - Jumpcut
 - KeyCastr
-- Gittr
+- Gitter
 - Postman
 - Sketch
+- Itsycal
+- Franz
 
 To search for applications with [Cask Search](http://caskroom.io/search) or from the Terminal, type: 
 
