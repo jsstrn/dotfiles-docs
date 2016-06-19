@@ -2,6 +2,8 @@
 
 First install iTerm2 with `brew cask install iterm2`.
 
+Install [Oh My Zsh](http://ohmyz.sh). Then in `.zshrc` change the theme to agnoster, like so `ZSH_THEME="agnoster"`.
+
 Next, download [iTerm color schemes](http://iterm2colorschemes.com).
 
 In iTerm2 preferences:
