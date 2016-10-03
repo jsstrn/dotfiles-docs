@@ -28,3 +28,15 @@ syntax on
 Go to `Preferences > Keyboard > Modifier Keys`, and set `No Action` to the `Caps Lock` key
 
 Then install [Seil](https://pqrs.org/osx/karabiner/seil.html.en) and follow instructions [here](http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x#8437594).
+
+## Vim Cheat Sheet
+
+| mapping          | summary    |
+|:-----------------|:-----------|
+| `:q` or `:quit`  | to quit vim|
+| `:w` or `:write` | to save changes|
+|`j`|move down|
+|`k`|move up|
+|`h`|move left|
+|`l`|move right|
+
