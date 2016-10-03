@@ -35,12 +35,12 @@ Then install [Seil](https://pqrs.org/osx/karabiner/seil.html.en) and follow inst
 |:---|:---|
 | `:q` or `:quit`|to quit vim|
 | `:w` or `:write`|to save changes|
+|`:e.` or `:edit .`|navigate file directory|
 |`j`|move down|
 |`k`|move up|
 |`h`|move left|
 |`l`|move right|
 |`d`|delete\*|
 |`y`|yank|
-|`:e.` or `:edit .`|yank|
 
 \* duplicate operator to apply to current line (e.g. `yy` to yank current line)
