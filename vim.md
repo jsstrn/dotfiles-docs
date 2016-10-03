@@ -39,4 +39,7 @@ Then install [Seil](https://pqrs.org/osx/karabiner/seil.html.en) and follow inst
 |`k`|move up|
 |`h`|move left|
 |`l`|move right|
+|`d`|delete\*|
+|`y`|yank|
 
+\* duplicate operator to apply to current line (e.g. `yy` to yank current line)
